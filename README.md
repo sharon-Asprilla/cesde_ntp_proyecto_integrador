@@ -5,7 +5,7 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 ```markdown
 # [Nombre Oficial del Proyecto]
 
-[Una frase corta que resuma el propósito – máximo 15 palabras]
+[knowly]
 
 ## Introducción / Contexto
 

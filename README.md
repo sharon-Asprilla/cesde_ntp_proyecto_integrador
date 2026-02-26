@@ -19,9 +19,9 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 [Redactar el objetivo general del proyecto integrador – una frase clara y concreta]
 
 **Objetivos Específicos**  
-- [OE1 – descripción clara]  
-- [OE2 – descripción clara]  
-- [OE3 – descripción clara]  
+- [OE1 – Implementar una plataforma de gestión de aprendizaje (LMS) que permita la reproducción de contenidos multimedia y  el seguimiento del progreso académico del estudiante de forma automatizada.]  
+- [OE2 – Crear una interfaz intuitiva y responsiva que facilite la navegación, permitiendo que la compra y el inicio de un curso se realicen de manera fluida en pocos pasos.]  
+- [OE3 – Desarrollar un módulo de gestión de pagos que habilite a los profesores la publicación de contenidos previo pago de una tarifa de suscripción o derecho de piso en la plataforma.]   
 - [OE4 – descripción clara]  
 (Mínimo 3–5 objetivos específicos)
 

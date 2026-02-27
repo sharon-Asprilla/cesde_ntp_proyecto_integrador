@@ -45,7 +45,7 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 | Nombre                  | Rol principal              | Usuario GitHub     |
 |-------------------------|----------------------------|--------------------|
 | [Nombre 1]              | Líder / Backend            | @[usuario]         |
-| [Nombre 2]              | Frontend Lead              | @[usuario]         |
+| [Nombre 2]              | Frontend Lead              | @[Sebasherrera01]         |
 | [Nombre 3]              | Backend / Base de datos    | @[usuario]         |
 | [Nombre 4]              | [rol]                      | @[usuario]         |
 | ...                     | ...                        | ...                |

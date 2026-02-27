@@ -33,6 +33,8 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 **Qué NO se va a desarrollar en esta versión (fuera de alcance):**  
 -[incorporacion de api de gemini ya que  esta plataforma evalua mediante al examen final]
 -[que la IA no evalue ala persona de manersa didactica, ya que el examen es el que te otorga certificado y cedencialidad]
+-[todavia no teiene funcionalidades para traducir el video y cambiarlo de idioma a no ser que sean subtitulo ]
+
 
 ## Tecnologías y Herramientas (Tech Stack)
 

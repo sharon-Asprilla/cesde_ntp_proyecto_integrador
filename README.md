@@ -16,7 +16,7 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 ## Objetivos
 
 **Objetivo General**  
-[Redactar el objetivo general del proyecto integrador – una frase clara y concreta]
+[Diseñar y desarrollar una plataforma digital integral que permita la creación, gestión y monetización de comunidades en línea, proporcionando a los creadores herramientas intuitivas y escalables para organizar contenidos, fomentar la interacción activa y construir relaciones sostenibles con sus usuarios, al mismo tiempo que se garantiza una experiencia participativa, segura y personalizada para los miembros, impulsando así la generación de valor económico, social y creativo dentro del ecosistema digital.]
 
 **Objetivos Específicos**  
 - [OE1 – descripción clara]  

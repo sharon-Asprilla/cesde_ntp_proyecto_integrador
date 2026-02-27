@@ -31,7 +31,8 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 - [Listar módulos principales y funcionalidades clave previstas en el semestre]
 
 **Qué NO se va a desarrollar en esta versión (fuera de alcance):**  
-- [Listar explícitamente lo que se excluye intencionalmente]
+-[incorporacion de api de gemini ya que  esta plataforma evalua mediante al examen final]
+-[que la IA no evalue ala persona de manersa didactica, ya que el examen es el que te otorga certificado y cedencialidad]
 
 ## Tecnologías y Herramientas (Tech Stack)
 
@@ -44,11 +45,11 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 
 | Nombre                  | Rol principal              | Usuario GitHub     |
 |-------------------------|----------------------------|--------------------|
-| [Nombre 1]              | Líder / Backend            | @[usuario]         |
-| [Nombre 2]              | Frontend Lead              | @[usuario]         |
-| [Nombre 3]              | Backend / Base de datos    | @[usuario]         |
-| [Nombre 4]              | [rol]                      | @[usuario]         |
-| ...                     | ...                        | ...                |
+| [Johan Cadavid]         | Líder / Backend            | @[usuario]         |
+| [Sebastian Herrera]     | Frontend Lead              | @[usuario]         |
+| [Sharon Asprilla]       | Backend / Base de datos    | @[sharon-asprilla] |
+| [Juan Jose Castrillon]  | frond/create               | @[usuario]         |
+| [Jeronimo Taborda]      | backend                    | @[usuario]         |
 
 ## Diagrama de Clases del Dominio (v1)
 

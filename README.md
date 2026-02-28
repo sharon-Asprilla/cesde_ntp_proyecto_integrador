@@ -10,8 +10,18 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 ## Introducción / Contexto
 
 - Descripción del problema que se busca resolver  
+
+En la actualidad, muchas personas buscan aprender de manera independiente y flexible, mientras que profesores y expertos desean compartir sus conocimientos y generar ingresos adicionales. Sin embargo, existen limitaciones como por ejemplo las plataformas son muy costosas, e incluso carecen de material de estudio, las personas que realizan los cursos no tiene como esa credencialidad del certificado
+
+
 - Justificación: ¿por qué es relevante? (impacto social, académico, empresarial, etc.)  
+
+Desarrollar una plataforma local (que siempre que este conectada al internet pueda  funcionar si no no deja ingresar) con tal de que los estudiantes puedan acceder en cualquier lugar y hora en el mundo  y sus estudios se llevan de  forma independiente, ademas los profesores  generan ingresos y comparten conocimientos
+
 - Breve descripción del dominio / temática del proyecto integrador
+
+
+es hacer una plataforma donde la monetizacion directa y el aprendizaje independiente, por lo cual las personas pagan suscripcion por algo esclusivo, cada curso tiene su certificado y se puede tener fors y hacer comentarios he incluso tener un chat con el profesor donde las preguntas se pueden ver, no solo el profe si no los otros usuarios, ademas pueden subir actividades realizadas y hacer un examen 
 
 ## Objetivos
 
@@ -55,6 +65,44 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 
 ## Diagrama de Clases del Dominio (v1)
 
-![Diagrama de Dominio v1](docs/diagrama-dominio-v1.png)  
+![Diagrama de Dominio v1](pages\images\Captura de pantalla 2026-02-28 100147.png)  
 *Diagrama inicial del modelo de dominio – versión 1. Se actualizará en futuras entregas.*
+
+
+    USUARIO {
+        int id_usuario PK
+        varchar (80) nombre
+        varchar (80) apellido
+        varchar (10)documento
+        varchar (250)correo
+        int (8)contraseña
+    }
+
+    CURSO {
+        int id_curso PK
+        varchar (250) nombre_curso
+        text (350) descripcion
+        float (10,0) precio
+        varchar (90) intensidad
+    }
+
+    INSCRIPCION {
+        int id_inscripcion PK
+        int id_usuario FK
+        int id_curso FK
+        date fecha_inscripcion
+    }
+
+    CERTIFICADO {
+        int id_certificado PK
+        int id_usuario FK
+        int id_curso FK
+        date fecha_emision
+    }
+
+    USUARIO ||--o{ INSCRIPCION : "realiza"}
+    CURSO  ||--o{ INSCRIPCION : "tiene"}
+    USUARIO ||--o{ CERTIFICADO : "obtiene"}
+    CURSO  ||--o{ CERTIFICADO : "otorga"}
+
 

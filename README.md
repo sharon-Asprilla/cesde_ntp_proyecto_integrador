@@ -48,7 +48,7 @@ El README **debe** contener **todos** estos apartados en este orden (personaliza
 | Nombre                  | Rol principal              | Usuario GitHub     |
 |-------------------------|----------------------------|--------------------|
 | [Johan Cadavid]         | Líder / Backend            | @[usuario]         |
-| [Sebastian Herrera]     | Frontend Lead              | @[usuario]         |
+| [Sebastian Herrera]     | Frontend Lead              | @[Sebasherrera01]         |
 | [Sharon Asprilla]       | Backend / Base de datos    | @[sharon-asprilla] |
 | [Juan Jose Castrillon]  | frond/create               | @[usuario]         |
 | [Jeronimo Taborda]      | backend                    | @[usuario]         |

@@ -3,9 +3,9 @@
 El README **debe** contener **todos** estos apartados en este orden (personalizar el contenido entre corchetes con la información real del grupo). No es opcional ni sugerido; es requisito de evaluación.
 
 ```markdown
-# [Nombre Oficial del Proyecto]
+# [knowly]
 
-[knowly]
+knowly es una plataforma donde las personas pueden aprender a su ritmo de forma virtual
 
 ## Introducción / Contexto
 
